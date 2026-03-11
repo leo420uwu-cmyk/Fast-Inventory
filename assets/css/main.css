@@ -4167,7 +4167,7 @@ input, select, textarea {
     /* Animación */
     opacity: 0;
     transform: translateX(-100px);
-    animation: slideRight 1.2s ease-out forwards;
+    animation: slideRight 1.9s ease-out forwards;
 }
 
 .logo-circle img {
